@@ -1,0 +1,13 @@
+{
+    "name": "HomeNav",
+    "alias": "homenav",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\HomeNav\\Providers\\HomeNavServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
